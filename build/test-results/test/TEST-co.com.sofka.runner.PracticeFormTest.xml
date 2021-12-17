@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="co.com.sofka.runner.PracticeFormTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-12-17T22:34:54" hostname="DESKTOP-1FASTHS" time="3.646">
+<testsuite name="co.com.sofka.runner.PracticeFormTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-12-17T22:49:13" hostname="DESKTOP-1FASTHS" time="1.494">
   <properties/>
-  <testcase name="practiceFormTestMandatoryFields()" classname="co.com.sofka.runner.PracticeFormTest" time="3.646">
+  <testcase name="practiceFormTestMandatoryFields()" classname="co.com.sofka.runner.PracticeFormTest" time="1.494">
     <failure message="java.lang.NoSuchMethodError: com.google.common.collect.ImmutableList.toImmutableList()Ljava/util/stream/Collector;" type="java.lang.NoSuchMethodError">java.lang.NoSuchMethodError: com.google.common.collect.ImmutableList.toImmutableList()Ljava/util/stream/Collector;
 	at org.openqa.selenium.chrome.ChromeOptions.asMap(ChromeOptions.java:292)
 	at org.openqa.selenium.remote.NewSessionPayload.create(NewSessionPayload.java:94)
@@ -139,7 +139,7 @@
 </failure>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 37480
+  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 47801
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
